@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary>فصل سوم : توسعه یک رست ای پی ای با FastAPI</summary>
+  <summary>فصل سوم : توسعه یک Rest API با FastAPI</summary>
   <br>
     
     
@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary>فصل پنج : ورودی ها وابسته در FastAPI</summary>
+  <summary>فصل پنج : ورودی های وابسته در FastAPI</summary>
   <br>
     
     
@@ -50,7 +50,7 @@
 </details>
 
 <details>
-  <summary>فصل هفتم : میدیریت احراز هویت و امنیت در FastAPI</summary>
+  <summary>فصل هفتم : مدیریت احراز هویت و امنیت در FastAPI</summary>
   <br>
     
     
